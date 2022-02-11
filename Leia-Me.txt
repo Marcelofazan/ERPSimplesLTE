@@ -1,0 +1,17 @@
+AdminLTE 3.2
+Link https://adminlte.io/
+
+( Download Template )
+
+Pacote de Distribuição AdminLTE 3.2 rc   
+Link https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip
+
+Modo de Utilização:
+
+Criar uma pasta chamada adminlte na raiz do projeto:
+
+Na Pasta AdminLTE-3.2.0-rc /dist -> Copiar as pastas css, img e js e colocar dentro da pasta adminlte
+
+Na Pasta AdminLTE-3.2.0-rc /plugins -> Copiar todas as pastas e colocar dentro da pasta adminlte
+
+Arrastar a pasta para dentro de Solution no Visual Studio 
